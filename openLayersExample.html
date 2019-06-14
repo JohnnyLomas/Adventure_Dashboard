@@ -22,9 +22,15 @@
     <title>OpenLayers example</title>
   </head>
   <body>
+  	<!---- Page Header ---->
     <h2>My Map</h2>
+    
+    <!---- div to hold the map and target the OL object ---->
     <div id="map" class="map"></div>
+    
+    <!---- Build and Render the map using open layers ---->
     <script type="text/javascript">
+      
       
       var basemap = new ol.layer.Tile({
             source: new ol.source.XYZ({
@@ -37,7 +43,7 @@
         
     var kml = new ol.layer.Vector({
     	source: new ol.source.Vector({
-    		url: 'Feed_the_Dogs.kml',
+    		url: 'https://cdn.jsdelivr.net/gh/JohnnyLomas/Adventure_Dashboard/Feed_the_Dogs.kml',
     		format: new ol.format.KML()
     		})
     	})
