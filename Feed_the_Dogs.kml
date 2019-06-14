@@ -1,0 +1,1296 @@
+<?xml version="1.0"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>CalTopo Export</name><description>Export from CalTopo</description><Folder><open>1</open><name>Markers</name><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/93-parkinglot.png</href></Icon></IconStyle></Style><description>This is now being ticketed</description><name>Tinker Court Parking</name><Point><coordinates>-120.29638799999998,39.317998,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description>Top of Sugar Bowl's Summit Chair, along the Mt. Judah ridgeline.</description><name>Mt. Judah</name><Point><coordinates>-120.31741599999998,39.302458,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Donner Peak</name><Point><coordinates>-120.312524,39.308136,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Trestle Peak</name><Point><coordinates>-120.29866199999998,39.31066,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/93-parkinglot.png</href></Icon></IconStyle></Style><description>Please do not park at Sugar Bowl Academy</description><name>Donner Ski Ranch</name><Point><coordinates>-120.330892,39.317798,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Mt. Lincoln</name><Point><coordinates>-120.32690434136958,39.28814377830731,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/93-parkinglot.png</href></Icon></IconStyle></Style><description>Plowed lot for 10-15 cars.</description><name>Glacier Way Parking</name><Point><coordinates>-120.26806399999998,39.343292,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Hawk's Peak</name><Point><coordinates>-120.27617499999997,39.359022,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/93-parkinglot.png</href></Icon></IconStyle></Style><description/><name>Donner Summit Sno-Park</name><Point><coordinates>-120.34471000000002,39.339608,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/93-parkinglot.png</href></Icon></IconStyle></Style><description>Parking here not recommended during periods of snow removal. Ticketing / Towing possible.</description><name>Highview dead-end</name><Point><coordinates>-120.12309600000003,39.010347,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Rubicon Peak</name><Point><coordinates>-120.13352399999997,38.988435,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/93-parkinglot.png</href></Icon></IconStyle></Style><description>Please avoid crossing private property signs by skinning north along the highway before beginning your ascent.</description><name>Hwy 89 pullouts</name><Point><coordinates>-120.11245300000002,39.00151,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Emerald Point</name><Point><coordinates>-120.12391100000002,38.96061,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Jake's Peak</name><Point><coordinates>-120.118289,38.966316,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/93-parkinglot.png</href></Icon></IconStyle></Style><description>Accessing south chutes and Emerald Point. Park in pullout at Emerald Bay closure gate.</description><name>Jake's South Parking</name><Point><coordinates>-120.10241000000002,38.96091,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/93-parkinglot.png</href></Icon></IconStyle></Style><description>Park here for skiing Jake's glades.</description><name>Jake's North Parking</name><Point><coordinates>-120.10034999999999,38.975458,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/93-parkinglot.png</href></Icon></IconStyle></Style><description>Standard access point to Silver Peak.</description><name>Pole Creek Parking</name><Point><coordinates>-120.20703800000001,39.236142,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/93-parkinglot.png</href></Icon></IconStyle></Style><description/><name>Olympic Village Inn Parking</name><Point><coordinates>-120.23682100000002,39.199004,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/158-yellow.png</href></Icon></IconStyle></Style><description>Very dense vegetation. Stay out of this drainage by contouring high on either side of it.</description><name>Bushwhacking</name><Point><coordinates>-120.246263,39.211274,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/117-rangerstation.png</href></Icon></IconStyle></Style><description/><name>Bradley Hut</name><Point><coordinates>-120.25531799999999,39.231056,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/93-parkinglot.png</href></Icon></IconStyle></Style><description>Park near gate of Forest Road 85 / Fordyce Lake Road</description><name>Signal Peak parking</name><Point><coordinates>-120.54405199999997,39.311888,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/93-parkinglot.png</href></Icon></IconStyle></Style><description>Park here for Incline and Relay Peaks. Another lot is located a few hundred yards closer to Reno if this one is full.</description><name>Incline Lake Parking</name><Point><coordinates>-119.92508399999997,39.291897,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/158-yellow.png</href></Icon></IconStyle></Style><description>Skiing anything into this drainage leads to a small creek in a deep gully. This is a textbook terrain trap and should be skied with caution.</description><name>Terrain Trap</name><Point><coordinates>-119.94748600000003,39.2909,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/158-yellow.png</href></Icon></IconStyle></Style><description>Arguably Tahoe's most utilized snowmobile arena, this bowl gets machine tracks on every square foot.</description><name>Snowmobiles</name><Point><coordinates>-119.94486799999999,39.314578,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/93-parkinglot.png</href></Icon></IconStyle></Style><description>Park here for Relay and Incline Peaks. Another lot is located a few hundred yards closer to Reno if this one is full.</description><name>Relay Parking</name><Point><coordinates>-119.92525599999999,39.29183,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/158-yellow.png</href></Icon></IconStyle></Style><description>Both main drainages here are deep terrain traps. Avoid skiing above these when avalanche danger exists.</description><name>Terrain Trap</name><Point><coordinates>-119.94967500000001,39.283493,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Rose Knob</name><Point><coordinates>-119.95799999999997,39.29286,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/93-parkinglot.png</href></Icon></IconStyle></Style><description/><name>Jennifer Court Parking</name><Point><coordinates>-119.94752900000003,39.27851,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/93-parkinglot.png</href></Icon></IconStyle></Style><description>Parking for access to Mt. Rose, Tamarack, Mt. Houghton and Fireplug areas.</description><name>Tamarack Area Lot</name><Point><coordinates>-119.90219000000002,39.320446,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/93-parkinglot.png</href></Icon></IconStyle></Style><description>Small roadside pullout lot, room for ~5 cars. Other pullouts nearby if full.</description><name>Spring Creek Parking</name><Point><coordinates>-120.078034,38.934376,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/93-parkinglot.png</href></Icon></IconStyle></Style><description>Large lot with room for ~15 cars.</description><name>Hidden Parking</name><Point><coordinates>-120.10889099999997,38.988469,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Hidden Peak</name><Point><coordinates>-120.124211,38.974958,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/93-parkinglot.png</href></Icon></IconStyle></Style><description>Best for accessing South Maggie's.</description><name>Bayview Trailhead</name><Point><coordinates>-120.09785999999997,38.946125,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/93-parkinglot.png</href></Icon></IconStyle></Style><description>Best for accessing North Maggie's.</description><name>Eagle Falls Trailhead</name><Point><coordinates>-120.11249499999997,38.952335,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>North Maggie's</name><Point><coordinates>-120.11442599999998,38.94105,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>South Maggie's</name><Point><coordinates>-120.11400000000003,38.93094,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/158-yellow.png</href></Icon></IconStyle></Style><description>Huge cliff bands, very few safe descents.</description><name>Danger</name><Point><coordinates>-120.07155399999999,38.859694,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/93-parkinglot.png</href></Icon></IconStyle></Style><description/><name>Wintoon Dr Parking</name><Point><coordinates>-120.041428,38.861666,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Angora Peak</name><Point><coordinates>-120.07309900000001,38.866645,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Echo Peak</name><Point><coordinates>-120.073485,38.856051,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description>Many steep descents on Flagpole's east face.</description><name>Flagpole Peak</name><Point><coordinates>-120.05928,38.847964,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Matterhorn Peak</name><Point><coordinates>-119.381708653521,38.093055773060776,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Virginia Peak</name><Point><coordinates>-119.3579352616207,38.06575817429205,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Mt. Shasta</name><Point><coordinates>-122.19701290237441,41.408958125550924,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Red Lake Peak</name><Point><coordinates>-119.9857728522831,38.71563722026261,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Round Top</name><Point><coordinates>-120.00100038229527,38.66356208590508,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Pyramid Peak</name><Point><coordinates>-120.15786952771094,38.84495709905091,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Dicks Peak</name><Point><coordinates>-120.15106221039701,38.900507019847545,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Jacks Peak</name><Point><coordinates>-120.15398519999974,38.89035728192896,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Kalmia/Genene's</name><Point><coordinates>-120.1309074736356,38.90661020924788,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Ralston Peak</name><Point><coordinates>-120.10172145192098,38.832955845920964,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Mt. Lassen</name><Point><coordinates>-121.50508980489451,40.48806607089144,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Mount Houghton</name><Point><coordinates>-119.93813019561765,39.335174297576714,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Twin Peaks Tahoe</name><Point><coordinates>-120.23315453524822,39.11216949248257,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Incline Peak</name><Point><coordinates>-119.94051199722287,39.29393461718127,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description>Second Highest Peak in the Tahoe Basin
+
+https://thebackcountry.net/mt-rose/</description><name>Mount Rose</name><Point><coordinates>-119.91668742382478,39.34335865396658,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/93-parkinglot.png</href></Icon></IconStyle></Style><description>Park on the north side of the road just after the hairpin, coming from Reno. Small area that NDOT uses for plows but enough space to get a few cars into. Other option is to park at Sky Tavern</description><name>Hairpin Turn Pullout</name><Point><coordinates>-119.8770524268175,39.33961890292302,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/93-parkinglot.png</href></Icon></IconStyle></Style><description>Must have snowpark Pass, busy with many families at times</description><name>Echo Summit Snow Park</name><Point><coordinates>-120.0339734284056,38.823804155533,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Talking Peak</name><Point><coordinates>-120.0709082347579,38.83243458806083,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Incredible Hulk</name><Point><coordinates>-119.41252457074728,38.119807452092104,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Kettle Peak</name><Point><coordinates>-119.4285749094924,38.12291352967501,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Excelsior Mountain</name><Point><coordinates>-119.3053429173948,38.024478806464195,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Black Mountain</name><Point><coordinates>-119.27879713910522,38.03869751573052,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Dunderberg Peak</name><Point><coordinates>-119.27418639127046,38.06459358534299,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Green Peak</name><Point><coordinates>-119.27745007234955,38.09046134879458,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>North Peak</name><Point><coordinates>-119.31491449705209,37.98194925852785,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Mount Conness</name><Point><coordinates>-119.32156637540902,37.967030443331325,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Mount Dana</name><Point><coordinates>-119.221185184305,37.89960617792764,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>White Mountain</name><Point><coordinates>-119.30924747068195,37.94655865512227,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>False White Mountain</name><Point><coordinates>-119.29379794675617,37.93681140270269,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Mt Gibbs NE Summit</name><Point><coordinates>-119.19766536013304,37.88660377553183,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Mt Lewis</name><Point><coordinates>-119.19028392092406,37.84217202014828,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>The Doodad</name><Point><coordinates>-119.38903765354803,38.09860811980097,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=http://www.gstatic.com/mapspro/images/stock/135-snowflake_simple.png</href></Icon></IconStyle></Style><description/><name>Mount Walt</name><Point><coordinates>-119.41060852617215,38.12141574500661,0</coordinates></Point></Placemark><Placemark><Style><IconStyle><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/><Icon><href>http://caltopo.com/icon.png?cfg=warning</href></Icon></IconStyle></Style><description>False chute, looks good on top but has massive cliff at the bottom</description><name>False chute</name><Point><coordinates>-119.2132219584903,37.922124331910204,0</coordinates></Point></Placemark></Folder><Folder><open>1</open><name>Lines and Polygons</name><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Donner Peak Ascent 1</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.29656599999998,39.317898,0
+-120.29742499999998,39.317101,0
+-120.30326100000002,39.316869,0
+-120.304892,39.316172,0
+-120.304463,39.314511,0
+-120.30429100000003,39.309863,0
+-120.30613700000004,39.306144,0
+-120.31098600000001,39.306642,0
+-120.31248800000003,39.3089,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Donner Peak Ascent 2</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.33089899999999,39.317699,0
+-120.32759399999998,39.316437,0
+-120.324161,39.313615,0
+-120.32171499999998,39.311025,0
+-120.320513,39.309199,0
+-120.31738000000001,39.307372,0
+-120.31441899999999,39.306974,0
+-120.31326100000001,39.307771,0
+-120.312524,39.308834,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Standard Lake Run from Donner Peak. Walk East through tunnels halfway down, until the opening in the tunnels under Trestle Peak.</description><name>Lake Run</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.312231,39.3089,0
+-120.30669499999999,39.308601,0
+-120.30562199999997,39.309066,0
+-120.30527799999999,39.310726,0
+-120.301716,39.312353,0
+-120.30098700000002,39.313382,0
+-120.29897,39.313316,0
+-120.29815400000001,39.31305,0
+-120.296695,39.317002,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>This short run packs a punch! Named after Alpine Skills International that used to be based in what is now Sugar Bowl Academy.</description><name>ASI</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.324025,39.314877,0
+-120.32385299999999,39.313814,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Heart Chute</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.31253100000004,39.309597,0
+-120.31210199999998,39.312652,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>The Bubbles</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.31004200000001,39.309597,0
+-120.309999,39.311523,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name/><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.32649278640747,39.28842579133687,0
+-120.32440066337585,39.288475613983,0
+-120.32243728637695,39.288757941641634,0
+-120.32001256942749,39.2887745491155,0
+-120.31951904296875,39.28937241555228,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>South Face Judah</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.31906843185425,39.290252598517576,0
+-120.31741619110107,39.29364036932867,0
+-120.31728744506836,39.294952256154815,0
+-120.31695485115051,39.29667925956,0
+-120.31572103500366,39.29847264108325,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>East Face Judah</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.315420627594,39.29863869260416,0
+-120.31248092651367,39.29822356306339,0
+-120.31067848205566,39.29840622036463,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Sunrise Bowl ascent</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.26807400000001,39.34339,0
+-120.269745,39.34356,0
+-120.27204,39.344173,0
+-120.27391,39.344486,0
+-120.27482600000002,39.345135,0
+-120.27822000000003,39.346596,0
+-120.28168,39.347275,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Sunrise Bowl</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.28283399999998,39.347939,0
+-120.27532300000001,39.351921,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Castle Ascent 1</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.34476000000001,39.339608,0
+-120.34918099999999,39.338048,0
+-120.350211,39.339774,0
+-120.34797900000001,39.340405,0
+-120.34767899999997,39.341035,0
+-120.35102599999999,39.344421,0
+-120.34892300000001,39.355704,0
+-120.34686299999998,39.357794,0
+-120.34750700000001,39.359321,0
+-120.34497499999998,39.362539,0
+-120.34755000000001,39.364265,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Castle Ascent 2</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.35106200000001,39.344421,0
+-120.352871,39.344918,0
+-120.35591799999997,39.347408,0
+-120.356991,39.348934,0
+-120.36063899999999,39.351855,0
+-120.36085400000002,39.35275,0
+-120.36196899999999,39.353248,0
+-120.362055,39.353812,0
+-120.36325699999998,39.354476,0
+-120.36402900000002,39.356998,0
+-120.36501599999997,39.357761,0
+-120.36488800000001,39.358458,0
+-120.36136899999997,39.364032,0
+-120.35836499999999,39.364696,0
+-120.35609,39.365758,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>North Glades</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.352957,39.36672,0
+-120.361669,39.36891,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>North Bowl</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.347421,39.36463,0
+-120.34248600000001,39.36808,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>South Face</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.351069,39.364066,0
+-120.35420199999999,39.357894,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF0000</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>A prominent chute bisects the Frog Lake Cliffs to the looker's left of the cliff band. Beware of Frog Lake Cliffs notorious cornice.</description><name>Frog Lake Cliffs</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.328889,39.365758,0
+-120.32451200000003,39.366488,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Rubicon Ascent 1</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.123017,39.010314,0
+-120.123403,39.010014,0
+-120.125721,39.005245,0
+-120.127051,39.003678,0
+-120.127609,39.00211,0
+-120.12915399999997,39.000376,0
+-120.13155699999999,38.998542,0
+-120.13250099999999,38.996874,0
+-120.13335899999998,38.989002,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Glades</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.133059,38.989002,0
+-120.122974,38.999709,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Rubicon Ascent 2</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.11263099999996,39.00151,0
+-120.11306000000002,39.002744,0
+-120.11361799999997,39.003544,0
+-120.116537,39.003578,0
+-120.11855400000002,39.003411,0
+-120.119798,39.002244,0
+-120.12142900000003,39.00171,0
+-120.12310300000001,39.000676,0
+-120.12473299999999,39.000376,0
+-120.127051,38.999542,0
+-120.12868200000003,38.998909,0
+-120.131936,38.997875,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>To access south chutes and Emerald Point.</description><name>Jake's Ascent 2</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.10263199999997,38.960977,0
+-120.10400500000003,38.96061,0
+-120.10589400000003,38.959242,0
+-120.107396,38.958675,0
+-120.113404,38.959175,0
+-120.11421200000001,38.959242,0
+-120.115929,38.959776,0
+-120.11683,38.960143,0
+-120.118203,38.96041,0
+-120.119576,38.960276,0
+-120.12039199999998,38.960877,0
+-120.122502,38.962379,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Standard ascent for Jakes glades.</description><name>Jake's Asccent 1</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.10044299999998,38.975425,0
+-120.10143,38.975625,0
+-120.10254600000002,38.975258,0
+-120.109963,38.973356,0
+-120.11160100000001,38.972122,0
+-120.117524,38.966984,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Most popular descent of top half, through old growth glades.</description><name>Glades</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.11791,38.967317,0
+-120.113361,38.97359,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Lower glades great for short storm day laps.</description><name>Glades</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.110228,38.97409,0
+-120.10494900000003,38.975859,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>East Avy Path</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.11696599999999,38.966316,0
+-120.104649,38.967351,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>South Chutes</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.11906899999997,38.964548,0
+-120.11490600000002,38.96031,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Eagle Chute</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.12306000000001,38.959242,0
+-120.11971199999999,38.958541,0
+-120.11511999999999,38.956706,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Emerald Chute</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.12331699999999,38.958141,0
+-120.11511999999999,38.952367,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Tamarack Ascent</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.90243199999998,39.320654,0
+-119.91165899999999,39.320156,0
+-119.91625099999999,39.319558,0
+-119.91753799999998,39.317998,0
+-119.91899699999999,39.317632,0
+-119.921873,39.318296,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Hourglass Bowl</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.921787,39.318595,0
+-119.91964100000001,39.321882,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Broken Glass Bowl</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.92341799999997,39.320288,0
+-119.92487699999998,39.324372,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Short but sweet</description><name>Proletariat Bowl</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.91796699999998,39.316238,0
+-119.91547800000001,39.316039,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Skin up Pole Creek Rd / Forest Rd 8 1.75 miles until a gated junction. Leave FR8 and continue along this road another 1.25 miles until reaching the base of Silver Peak. A more direct ascent is possible, but staying on this second road until the end affords a good view of the terrain.</description><name>Silver Peak Ascent 1</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.20708000000002,39.23617,0
+-120.20704,39.23514,0
+-120.20614,39.23404,0
+-120.20634999999999,39.23374,0
+-120.20673999999997,39.23388,0
+-120.20721000000003,39.23441,0
+-120.20807000000002,39.23471,0
+-120.20837,39.23448,0
+-120.20785999999998,39.23364,0
+-120.20829000000003,39.23321,0
+-120.2097,39.23384,0
+-120.21046999999999,39.23364,0
+-120.21095000000003,39.23401,0
+-120.21168,39.23408,0
+-120.21193,39.23471,0
+-120.21231999999998,39.23461,0
+-120.21253000000002,39.23428,0
+-120.2115,39.23321,0
+-120.21253000000002,39.23305,0
+-120.21168,39.23142,0
+-120.21176000000003,39.23092,0
+-120.21275000000003,39.23032,0
+-120.21386000000001,39.23039,0
+-120.21446000000003,39.23015,0
+-120.21455000000003,39.22982,0
+-120.21591999999998,39.22942,0
+-120.21953000000002,39.22976,0
+-120.22266000000002,39.22613,0
+-120.22266000000002,39.22317,0
+-120.22352000000001,39.22138,0
+-120.22361000000001,39.21972,0
+-120.22438,39.21865,0
+-120.22570999999999,39.21759,0
+-120.2285,39.21702,0
+-120.231628,39.217592,0
+-120.23415999999997,39.220119,0
+-120.23604899999998,39.221116,0
+-120.23785099999998,39.220618,0
+-120.239911,39.220318,0
+-120.24282900000003,39.220485,0
+-120.24518999999998,39.220418,0
+-120.24579,39.220285,0
+-120.24657000000002,39.22048,0
+-120.24652000000003,39.220485,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>East Bowl</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.24574999999999,39.22055,0
+-120.23767900000001,39.222014,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Silver Ascent 2</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.236828,39.19907,0
+-120.23665699999998,39.201298,0
+-120.23841600000003,39.20336,0
+-120.23828700000001,39.20479,0
+-120.23562700000002,39.206719,0
+-120.23622799999998,39.209745,0
+-120.23622799999998,39.211341,0
+-120.237257,39.212472,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>A short tree run. Fun to do on powder days before Squaw opens.</description><name>Glades</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.23760099999998,39.212139,0
+-120.24253599999997,39.208382,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Glades</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.24623400000002,39.221814,0
+-120.23919599999999,39.229195,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Signal Ascent</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.54417999999998,39.31202,0
+-120.54581000000002,39.31574,0
+-120.54770000000002,39.31676,0
+-120.54770000000002,39.31779,0
+-120.5471,39.31796,0
+-120.54559999999998,39.31779,0
+-120.54466000000002,39.31839,0
+-120.54448000000002,39.31916,0
+-120.54487,39.32012,0
+-120.54559999999998,39.32025,0
+-120.54556000000002,39.32075,0
+-120.54491000000002,39.32161,0
+-120.54323999999997,39.32128,0
+-120.54178000000002,39.32301,0
+-120.54023999999998,39.32304,0
+-120.53629000000001,39.32699,0
+-120.53341,39.32875,0
+-120.52954699999998,39.336023,0
+-120.52808800000003,39.339608,0
+-120.52882,39.3395,0
+-120.532036,39.338745,0
+-120.53550999999999,39.33901,0
+-120.53547000000003,39.33894,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Southeast Face</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.53594800000002,39.338413,0
+-120.534017,39.330679,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>North Bowl</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.53526199999999,39.339608,0
+-120.52963999999997,39.34389,0
+-120.52959699999997,39.343856,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF0000</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Donner Mini lap?</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.38129568099976,39.30965533095293,0
+-120.37889242172241,39.30988776583231,0
+-120.37751913070679,39.30889161091335,0
+-120.37631750106812,39.308410130952566,0
+-120.37593126296997,39.30749697020375,0
+-120.37082433700562,39.30553778511955,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Incline Peak Ascent</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.92530599999998,39.292063,0
+-119.92646500000001,39.293159,0
+-119.9273158253784,39.29445448683323,0
+-119.931307,39.298605,0
+-119.932816,39.299369,0
+-119.93423200000001,39.299469,0
+-119.93590599999999,39.298539,0
+-119.93710799999997,39.29741,0
+-119.93796600000002,39.295683,0
+-119.93899599999997,39.29472,0
+-119.93972500000001,39.294421,0
+-119.94032600000003,39.294022,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Most popular descent route.</description><name>Gladed Bowl</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.93972500000001,39.294089,0
+-119.932344,39.296513,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Grows great corn.</description><name>Face</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.94036900000003,39.293856,0
+-119.934146,39.289472,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Fun, steep, but short glade run</description><name>Southeast Glades</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.94521900000001,39.311888,0
+-119.93933900000002,39.308867,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>South Glades</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.944704,39.310627,0
+-119.94345900000002,39.30372,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>West Glades</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.94766500000003,39.314246,0
+-119.956591,39.308767,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>North Bowl</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.94732099999999,39.315043,0
+-119.95045399999998,39.317798,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>10-20 amazing chutes, but pretty far out there</description><name>Bronco Chutes</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.96306400000003,39.317466,0
+-119.96259199999997,39.32155,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Rose Knob Ascent</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.94771500000002,39.279374,0
+-119.95312200000001,39.281699,0
+-119.95389499999999,39.28263,0
+-119.955783,39.283892,0
+-119.958959,39.284955,0
+-119.959044,39.287147,0
+-119.95955900000001,39.288476,0
+-119.95964500000002,39.289472,0
+-119.959044,39.291465,0
+-119.95775700000002,39.293591,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>By far the most popular Rose Knob descent.</description><name>Face</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.95698500000003,39.292594,0
+-119.95372299999997,39.28542,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Great later-day corn run.</description><name>Face</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.96187700000002,39.291266,0
+-119.96659799999998,39.282497,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Fireplug Ascent</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.90243199999998,39.320421,0
+-119.904406,39.320454,0
+-119.905779,39.321716,0
+-119.906251,39.322978,0
+-119.90685200000001,39.323509,0
+-119.90735999999998,39.324306,0
+-119.908862,39.324604,0
+-119.91045700000001,39.324405,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Fireplug Ascent</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.90732400000002,39.324272,0
+-119.90638000000001,39.324671,0
+-119.90466400000003,39.324704,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Mini Chutes</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.910707,39.324671,0
+-119.911137,39.325899,0
+-119.909377,39.330447,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Glades</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.904406,39.325102,0
+-119.90196000000003,39.32809,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>South Face</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.90436299999999,39.32477,0
+-119.90110199999998,39.323808,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Tallac Ascent</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.078642,38.934376,0
+-120.07799899999998,38.933575,0
+-120.07705499999997,38.933241,0
+-120.077698,38.932607,0
+-120.07915700000001,38.93234,0
+-120.079587,38.931739,0
+-120.07971499999996,38.930838,0
+-120.08031599999998,38.929803,0
+-120.07975799999997,38.928735,0
+-120.07988699999999,38.927633,0
+-120.07928600000002,38.925863,0
+-120.07825600000001,38.924495,0
+-120.07902899999999,38.923727,0
+-120.08014400000002,38.923727,0
+-120.080917,38.922859,0
+-120.081389,38.922692,0
+-120.08477900000003,38.919787,0
+-120.08786900000001,38.915747,0
+-120.08859899999999,38.915413,0
+-120.08967200000001,38.91598,0
+-120.090487,38.916848,0
+-120.09177399999999,38.917182,0
+-120.09409199999999,38.916581,0
+-120.096967,38.914979,0
+-120.100615,38.913509,0
+-120.10125900000003,38.91017,0
+-120.10117300000002,38.908567,0
+-120.10022900000001,38.905962,0
+-120.09941300000003,38.905294,0
+-120.09885500000001,38.905595,0
+-120.09885500000001,38.905996,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>The Cross Couloir</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.09803999999997,38.90496,0
+-120.09636599999999,38.905628,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>North Bowl</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.09889800000002,38.906029,0
+-120.09941300000003,38.907665,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Cathedral Bowl</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.096495,38.901187,0
+-120.088642,38.899316,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>most popular descent</description><name>East Bowl (south)</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.099714,38.910237,0
+-120.08971500000001,38.915346,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Increasingly prominent avalanche path, although mostly gladed.</description><name>East Bowl (north)</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.10172399999999,38.91578,0
+-120.088212,38.920722,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>North Trees</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.101945,38.91755,0
+-120.10713800000002,38.923927,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Hidden Ascent</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.10915499999999,38.988402,0
+-120.114691,38.984966,0
+-120.11808200000002,38.984065,0
+-120.12215900000001,38.980529,0
+-120.12511999999998,38.978327,0
+-120.12563499999999,38.976192,0
+-120.12486200000001,38.975258,0
+-120.123918,38.975025,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Generally follows skin track</description><name>Glades</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.12426099999999,38.975492,0
+-120.12353200000001,38.978594,0
+-120.12095699999998,38.980596,0
+-120.11825299999998,38.982831,0
+-120.11177299999997,38.985066,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF0000</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Deep Creak Approach</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.21193027496338,39.256797869035715,0
+-120.211950078455,39.2567500676213,0
+-120.21211644644501,39.2562350569775,0
+-120.212164955471,39.2558648646558,0
+-120.21224724115098,39.2557151734063,0
+-120.212518352703,39.2557576045086,0
+-120.21270529211398,39.255923989829,0
+-120.21305168248801,39.256449714764,0
+-120.21339807286097,39.2566159593253,0
+-120.214070102525,39.2565998913535,0
+-120.21492925126302,39.2566428088283,0
+-120.21555968892903,39.256578397827,0
+-120.21660577707803,39.2563584539837,0
+-120.21788749332501,39.2558917840055,0
+-120.21888525211102,39.2554948094984,0
+-120.21982462040398,39.2551813740346,0
+-120.22069544724002,39.2548296095741,0
+-120.22153348556901,39.2544763825797,0
+-120.22209529194697,39.2542873866256,0
+-120.22279328292302,39.254095468608,0
+-120.223650185873,39.2539841016596,0
+-120.22451319736598,39.2539185056791,0
+-120.225010235213,39.2538933941581,0
+-120.22547385573102,39.2538316935129,0
+-120.226190082507,39.2537638018722,0
+-120.22662109418002,39.2536829022185,0
+-120.22692688070299,39.2536125062273,0
+-120.22713978142497,39.253557204979,0
+-120.22713978142497,39.253557204979,0
+-120.22690235669597,39.2533344691955,0
+-120.22677174165403,39.2530880121307,0
+-120.22638789153302,39.2529235678157,0
+-120.22593891355399,39.2527655228314,0
+-120.225375490207,39.2526707095822,0
+-120.22502811168698,39.2526035124403,0
+-120.22457545061502,39.2523797997521,0
+-120.22407733478997,39.2521965022881,0
+-120.22362009231097,39.2520699676302,0
+-120.22314650049299,39.2519309114124,0
+-120.22270560735103,39.2518866693563,0
+-120.22234371263687,39.25186530095889,0
+-120.22218704223633,39.250384165412854,0
+-120.22939682006836,39.24709400689416,0
+-120.23158550262451,39.24626313437211,0
+-120.23480415344238,39.246362839594475,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>North Glades</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.23484706878662,39.24646254467509,0
+-120.23227214813232,39.25287660697998,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>South Face Donner</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.3107213973999,39.302449466761985,0
+-120.31050682067871,39.30434232321076,0
+-120.31149387359619,39.30573702678583,0
+-120.3132963180542,39.30703208379089,0
+-120.31278133392334,39.308011662272925,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>North West Face</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.31321048736572,39.308609364441566,0
+-120.32110691070557,39.31561538142307,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF0000</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Andesite Skin (Long)</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.34875,39.341747,0
+-120.35580400000003,39.339954,0
+-120.35816999999997,39.34289,0
+-120.36075,39.34354,0
+-120.37131499999998,39.345398,0
+-120.37153999999998,39.348156,0
+-120.37020999999999,39.34922,0
+-120.36680999999999,39.34978,0
+-120.36655400000001,39.35101,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>East Chute</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.36651,39.350983,0
+-120.36532999999997,39.35055,0
+-120.36322999999999,39.350304,0
+-120.36077999999998,39.35075,0
+-120.36014,39.350933,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>East Chute</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.36653000000001,39.351265,0
+-120.36118999999997,39.351944,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF0000</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Andesite Skin (Short)</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.34891500000003,39.341747,0
+-120.35273999999998,39.341682,0
+-120.35329000000002,39.342976,0
+-120.35866499999997,39.34623,0
+-120.36097999999998,39.348484,0
+-120.36457999999999,39.349483,0
+-120.36628000000002,39.349483,0
+-120.3666,39.35101,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>North Maggie's Ascent</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.11228,38.95206,0
+-120.11318,38.95076,0
+-120.11304999999999,38.948997,0
+-120.11331000000001,38.94699,0
+-120.11284,38.94569,0
+-120.11142000000001,38.944824,0
+-120.11082499999998,38.944157,0
+-120.11130000000003,38.94342,0
+-120.11310000000003,38.94235,0
+-120.11442999999997,38.94145,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>A good ascent for either peak, but best for Maggies South.</description><name>South Maggie's Ascent</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.09785999999997,38.94605,0
+-120.10154999999997,38.94362,0
+-120.10597000000001,38.94295,0
+-120.11090999999999,38.93841,0
+-120.11275499999999,38.937283,0
+-120.11356999999998,38.93708,0
+-120.11486000000002,38.93711,0
+-120.11473000000001,38.93387,0
+-120.11365999999998,38.93163,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Alternate North Maggie's Ascent</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.11482000000001,38.937115,0
+-120.11442999999997,38.93955,0
+-120.11404400000004,38.94062,0
+-120.11439000000001,38.94142,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Many cliff bands to get caught in. Stay near skin track if unfamiliar.</description><name>Glades</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.11439000000001,38.94185,0
+-120.11211000000003,38.95093,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Glades</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.11388,38.931873,0
+-120.11057,38.93678,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Know before you go, only half these chutes go all the way through, even with a deep snowpack. Scout from bottom before dropping in.</description><name>South Maggie's Couloirs</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.11365999999998,38.931404,0
+-120.10770000000002,38.929634,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Contour below S. Maggie's up the Cascade Creek drainage for a clear view of the chutes. Assess line options, then continue to Granite Lake and the summit.</description><name>South Maggie's Chutes approach</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.09782000000001,38.94592,0
+-120.10609999999997,38.930637,0
+-120.10660999999999,38.93497,0
+-120.10838000000001,38.93651,0
+-120.11117000000002,38.93814,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Echo Ascent</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.04143499999998,38.8619,0
+-120.051649,38.861766,0
+-120.05555400000003,38.861966,0
+-120.06254899999999,38.86083,0
+-120.063579,38.86083,0
+-120.06516699999997,38.859895,0
+-120.06692599999997,38.857522,0
+-120.06838600000003,38.85682,0
+-120.069973,38.85682,0
+-120.07151799999997,38.856051,0
+-120.07297800000003,38.856018,0
+-120.073192,38.856386,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Angora Ascent</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.06877199999997,38.863337,0
+-120.070403,38.863905,0
+-120.07237700000002,38.863437,0
+-120.07306299999999,38.864673,0
+-120.07426499999997,38.865074,0
+-120.07490899999999,38.865742,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Most popular descent back to car.</description><name>East Glades</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.07139000000001,38.855784,0
+-120.06383700000004,38.859694,0
+-120.05452400000001,38.860897,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>South Chutes</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.07272,38.866845,0
+-120.06911500000001,38.863838,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>North Glades</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.07297800000003,38.867279,0
+-120.071304,38.873461,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Couloir system, a few variations possible.</description><name>Halls of God</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.07598200000001,38.861733,0
+-120.07645400000001,38.862802,0
+-120.077655,38.863537,0
+-120.07967200000002,38.866377,0
+-120.08117400000003,38.868649,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF2B00</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>A good route for returning from the Halls of God area.</description><name>Echo Backside Ascent</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.08280500000001,38.868984,0
+-120.086367,38.868883,0
+-120.08769799999999,38.868048,0
+-120.08769799999999,38.865909,0
+-120.08619499999998,38.862401,0
+-120.07885699999997,38.858925,0
+-120.075467,38.858892,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Jaws on Jobs</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.86128122415562,38.858197175130194,0
+-119.86162454690952,38.866217097038216,0
+-119.85982210245152,38.871563209083476,0
+-119.85570222940464,38.873567897443436,0
+-119.8536422928812,38.87604026855033,0
+-119.85269815530796,38.87804483063297,0
+-119.84703332986851,38.88278873563083,0
+-119.84248430337925,38.88572846146327,0
+-119.8411968430521,38.88619613390343,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Crescent Couloir</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.00102369630338,38.663624628335185,0
+-120.0008305772543,38.66447073740316,0
+-120.00125973069669,38.66601213812726,0
+-120.00174252831937,38.66736921347172,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF0000</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Climb to E Face of Red Lake</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.95400968097232,38.71936384906849,0
+-119.95724978946231,38.7192131737479,0
+-119.96098342441104,38.719481040764904,0
+-119.9655324509003,38.71994980562879,0
+-119.96920171283267,38.71861039580831,0
+-119.97059646152042,38.71812488018611,0
+-119.9711329033234,38.718744330571944,0
+-119.97190537951968,38.71827555780113,0
+-119.97211995624087,38.71916287509052,0
+-119.97310700915835,38.71892849046208,0
+-119.97353616260074,38.71979905806428,0
+-119.97413697742007,38.72018411342881,0
+-119.97510257266543,38.719648383661244,0
+-119.97604671023868,38.71886152328423,0
+-119.9766260673859,38.71799094426162,0
+-119.97726979754947,38.71747194018352,0
+-119.97784915469668,38.71686922104058,0
+-119.97907224200748,38.716350208816934,0
+-119.98001637958072,38.715613539835054,0
+-119.98096051715396,38.71417366490259,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Aka Genenes. Awesome steep descent. Traverse hard left at the bottom to find awesome glades</description><name>Kalmia Chutes</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.13083773620122,38.9067583738091,0
+-120.13049441344731,38.9069503970624,0
+-120.13018327720158,38.90729269809527,0
+-120.12995797164433,38.90758490498817,0
+-120.1297004795789,38.90795224908989,0
+-120.12890654571049,38.908970756141066,0
+-120.12848812110417,38.90947166966547,0
+-120.1273401356458,38.91034825982755,0
+-120.12624579436772,38.91056531857649,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Awesome pitch after Kalmia. Watch out for cliffs at the bottom!</description><name>Azure Lake Glades</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.1317400409896,38.91058987740116,0
+-120.13079590341636,38.91152489179257,0
+-120.1288217975814,38.91281051646935,0
+-120.12729830286094,38.913895765927464,0
+-120.12639708063193,38.91524813048932,0
+-120.12562460443564,38.91588256424269,0
+-120.12515253564902,38.91665055540834,0
+-120.12461609384604,38.917034547874486,0
+-120.12397236368247,38.91781922167018,0
+-120.12371487161704,38.91811973274096,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>North Face of Dicks</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.1508629879495,38.90075109114461,0
+-120.15062695355618,38.90130215962528,0
+-120.15028363080228,38.90212040493388,0
+-120.14976864667142,38.90312232512238,0
+-120.1487386784097,38.904124231172354,0
+-120.14710789532865,38.90567704535204,0
+-120.14530545087064,38.90699617123488,0
+-120.14341717572415,38.90888297957576,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Excellent steep face to combine with Dicks Peak</description><name>North Face</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.14453297467435,38.90345618311697,0
+-120.14429694028104,38.90430780015619,0
+-120.1438034138223,38.90624477342007,0
+-120.14307385297025,38.90883288796696,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Southeast Face</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.15074501452506,38.90052786827733,0
+-120.1495648425585,38.90019388424852,0
+-120.14707575259268,38.899509212078414,0
+-120.14550934252799,38.8987911341732,0
+-120.14357815203726,38.897956150734,0
+-120.14222631869376,38.897121362804434,0
+-120.14053116259635,38.89630305988927,0
+-120.13862142977774,38.89621955906163,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Northeast Face Pyramid</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.1577699202843,38.84524876463531,0
+-120.15729785149767,38.8461177913822,0
+-120.15656829064562,38.84722077158203,0
+-120.15596747582629,38.847972793732,0
+-120.15502333825305,38.84880836457502,0
+-120.15386462395861,38.84935983595512,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Giant Steps</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-118.3110276786798,36.65604147293223,0
+-118.3122507659906,36.657831715646644,0
+-118.31190744323669,36.6589678096233,0
+-118.31147828979431,36.659518637031425,0
+-118.31156412048279,36.66056864086067,0
+-118.31171432418762,36.66091290129356,0
+-118.31218639297424,36.66108503093265,0
+-118.31267991943298,36.6612915859915,0
+-118.31295886917053,36.6622210768974,0
+-118.31328073425232,36.66406281276074,0
+-118.3146111099237,36.66714355151173,0
+-118.31491151733337,36.669054014268106,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF0000</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>this is the best ascent route for the west face</description><name>W Face Williamson Couloir</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-118.31242242736755,36.65757318246958,0
+-118.31398883743225,36.656144429628846,0
+-118.3150617210382,36.655266508105484,0
+-118.31727186126648,36.6544746487331,0
+-118.31881681365905,36.65438857657147,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>excellent run, best way down from shephard pass</description><name>Super Bowl</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-118.33281940378163,36.67275467328847,0
+-118.32844203866932,36.67459615708097,0
+-118.32498735345814,36.676902252195134,0
+-118.31833547510121,36.68218528031864,0
+-118.31672614969227,36.68425023962998,0
+-118.31657594598744,36.687932612812254,0
+-118.31612533487294,36.69232010201028,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF0000</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Houghton Ascent</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.9298333547626,39.32749325463402,0
+-119.93060583095888,39.32812398665875,0
+-119.93232244472841,39.32931904226293,0
+-119.93296617489199,39.32981697607048,0
+-119.93373865108828,39.33087922300967,0
+-119.93463987331728,39.331642703029985,0
+-119.93481153469423,39.332671728128375,0
+-119.93494028072695,39.33366754444961,0
+-119.9360131643329,39.33492889142955,0
+-119.93811601620058,39.334995277482356,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>North Face</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.23296141619915,39.112402581941936,0
+-120.23261809344524,39.1129520040458,0
+-120.23236060137981,39.11338487905003,0
+-120.23208165164226,39.11378445361693,0
+-120.23182415957683,39.11428391863941,0
+-120.23051524157756,39.115865465170955,0
+-120.2300002574467,39.11668123211776,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>North Trees</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.23536467547649,39.11365119299325,0
+-120.23510718341106,39.1143337955945,0
+-120.2345921992802,39.11503304018355,0
+-120.2342488765263,39.116265025671936,0
+-120.23384118075603,39.11691430665358,0
+-120.23266100878948,39.117513637633984,0
+-120.23148083682293,39.11829608985254,0
+-120.23027920718425,39.1197443411913,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Houghton Bowl</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.93430114451002,39.335531312608765,0
+-119.9312541550691,39.33768880846755,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Hidden Chutes</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.93056750956129,39.33579685415367,0
+-119.92949462595533,39.33739008224299,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Hidden Chutes</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.92928004923414,39.335863239382306,0
+-119.92769218149732,39.3375892332012,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Hidden Chutes</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.92790675821851,39.33559769808956,0
+-119.92627597513746,39.33745646595878,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF0000</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Good to link off of Houghton, often top 200ft are wind scoured and involve walking but can be skinned. Not a quality route to ski back down</description><name>Mount Rose Summer trail Approach</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.9206356354947,39.33179075643598,0
+-119.92046397411775,39.333417269585034,0
+-119.92196601116609,39.335276095424724,0
+-119.92338221752595,39.336869335381685,0
+-119.9252275773282,39.33766594174433,0
+-119.92745917522859,39.33789828355691,0
+-119.92999118053865,39.33849573038626,0
+-119.93059199535799,39.339557845475476,0
+-119.92990534985017,39.34042080210289,0
+-119.92999566124217,39.340429699895886,0
+-119.92993999999999,39.34055,0
+-119.92979000000003,39.34068,0
+-119.9296,39.34071,0
+-119.92933,39.34061,0
+-119.92912999999999,39.34047,0
+-119.92863999999997,39.34027,0
+-119.92829,39.34036,0
+-119.92786000000001,39.34059,0
+-119.92741999999998,39.34083,0
+-119.9273,39.34095,0
+-119.92691000000002,39.34119,0
+-119.92676,39.34124,0
+-119.92676,39.34124,0
+-119.92628000000002,39.34161,0
+-119.92593,39.34184,0
+-119.92575,39.34186,0
+-119.92498,39.34218,0
+-119.92454552740833,39.342479052563114,0
+-119.9243263550992,39.34403846585898,0
+-119.92295306408357,39.3439720883938,0
+-119.9226526566739,39.34539919000313,0
+-119.92123645031404,39.34536600192456,0
+-119.91690200054597,39.34340787739441,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF0000</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Common route skied, lower galena creek area can be tricky to navigate with steep creek walls. Stay high to keep out of the terrain trap.</description><name>Mount Rose Hairpin Ascent</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.87730991888293,39.339934214958134,0
+-119.88125813055285,39.33953592583526,0
+-119.8851205115343,39.33867295828389,0
+-119.8894978766466,39.337544446180736,0
+-119.89078533697375,39.3379427466503,0
+-119.89104282903918,39.338872105587456,0
+-119.89155781317004,39.34019973977928,0
+-119.89293110418566,39.34132820901695,0
+-119.89447605657824,39.34312044624372,0
+-119.8961068396593,39.34404973634319,0
+-119.89851009893664,39.34371784844035,0
+-119.90134251165637,39.341660108266815,0
+-119.90383160162219,39.34278855392812,0
+-119.90554821539172,39.344315245530765,0
+-119.9085522894884,39.34404973634319,0
+-119.90975391912707,39.3450453905958,0
+-119.91267216253527,39.34511176704165,0
+-119.91507542181262,39.34391698137115,0
+-119.9169636969591,39.343319580876624,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Rose Dad Turn Glades</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.90374577093371,39.34116225880106,0
+-119.89275944280871,39.340232930311025,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Northeast Bowl</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.91610539007434,39.3440829250468,0
+-119.90898144293078,39.34806545506171,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Killer tree skiing without the crowds or parking fun of the West Shore</description><name>Talking Trees</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.07191059271224,38.833042998348326,0
+-120.07336971441634,38.835249347005174,0
+-120.07113811651595,38.83939442315453,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF0000</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Talking Peak Ascent</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-120.03423946280822,38.824993275381225,0
+-120.03415120277788,38.825046004310494,0
+-120.03406999999999,38.82492,0
+-120.03399167686177,38.82477256821045,0
+-120.03399999999999,38.82477,0
+-120.0342,38.82446,0
+-120.0341986929003,38.82446213435773,0
+-120.03433000000001,38.82451,0
+-120.03589999999997,38.82497,0
+-120.03625,38.82504,0
+-120.03661999999997,38.82508,0
+-120.03661999999997,38.82508,0
+-120.03711965318882,38.82509714496236,0
+-120.03712000000002,38.82509,0
+-120.03732000000002,38.82601,0
+-120.03746000000001,38.82642,0
+-120.03807,38.82697,0
+-120.03818999999999,38.82714,0
+-120.03820000000002,38.82722,0
+-120.03816999999998,38.82734,0
+-120.03818000000001,38.82744,0
+-120.03831000000002,38.82768,0
+-120.03834999999998,38.82798,0
+-120.03877,38.82846,0
+-120.03890000000001,38.82854,0
+-120.03899000000001,38.82883,0
+-120.03930000000003,38.82948,0
+-120.03935999999999,38.83007,0
+-120.03955000000002,38.83049,0
+-120.03960999999998,38.8307,0
+-120.03964747749853,38.83107477498559,0
+-120.04179256339415,38.83107797125347,0
+-120.0482298650299,38.83134541848019,0
+-120.05595462699279,38.83107797125347,0
+-120.05973117728576,38.832348336630794,0
+-120.06050365348204,38.831579433979265,0
+-120.06282108207091,38.831211694992454,0
+-120.06625430960997,38.83147914171671,0
+-120.06865756888732,38.832281475860384,0
+-120.06968753714904,38.832615779084385,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF0000</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Little Slide Canyon Approach</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.377168319911,38.14853672185343,0
+-119.37732473719063,38.14862967066055,0
+-119.37743999999998,38.1485,0
+-119.37743999999998,38.1485,0
+-119.37755959772403,38.148369771367165,0
+-119.37755959772403,38.148369771367165,0
+-119.37777986539538,38.14812992434728,0
+-119.37777986539538,38.14812992434728,0
+-119.37833999999998,38.14752,0
+-119.37833999999998,38.14752,0
+-119.37841973372008,38.1475541663159,0
+-119.37841973372008,38.1475541663159,0
+-119.37847999999997,38.14758,0
+-119.37847999999997,38.14758,0
+-119.37871000000001,38.14771,0
+-119.37925000000001,38.1477,0
+-119.37950999999998,38.14783,0
+-119.37960871313328,38.14785358632388,0
+-119.37960871313328,38.14785358632388,0
+-119.38034974919458,38.14803064803765,0
+-119.38035000000002,38.14803,0
+-119.38026000000002,38.14782,0
+-119.38015999999999,38.14768,0
+-119.38013999999998,38.14757,0
+-119.38024999999999,38.14747,0
+-119.38031999999998,38.1473,0
+-119.38048278823402,38.14674085791401,0
+-119.38048000000003,38.14674,0
+-119.38126,38.14698,0
+-119.38169541272623,38.146937172435486,0
+-119.38169541272623,38.146937172435486,0
+-119.38186999999999,38.14692,0
+-119.38277,38.14689,0
+-119.38315,38.14681,0
+-119.38337000000001,38.14679,0
+-119.38538,38.14673,0
+-119.3863,38.14643,0
+-119.38657999999998,38.14637,0
+-119.38691,38.14637,0
+-119.38755000000003,38.14646,0
+-119.38846999999998,38.14651,0
+-119.39006,38.14673,0
+-119.39118000000002,38.14699,0
+-119.39136000000002,38.14705,0
+-119.39143999999999,38.1471,0
+-119.39177000000001,38.14722,0
+-119.39215000000002,38.14739,0
+-119.39229999999998,38.14754,0
+-119.39251000000002,38.14784,0
+-119.39256999999998,38.14788,0
+-119.39309000000003,38.14802,0
+-119.39384999999999,38.14812,0
+-119.39400999999998,38.14816,0
+-119.39417000000003,38.14833,0
+-119.39447000000001,38.14849,0
+-119.39477999999997,38.14883,0
+-119.39515,38.14912,0
+-119.39544999999998,38.1492,0
+-119.39670999999998,38.14909,0
+-119.39765999999997,38.1491,0
+-119.39821,38.14906,0
+-119.39868000000001,38.14917,0
+-119.39893000000001,38.14919,0
+-119.39940999999999,38.14913,0
+-119.39940999999999,38.14913,0
+-119.39988,38.14909,0
+-119.40039999999999,38.14901,0
+-119.40143,38.14899,0
+-119.40181000000001,38.14892,0
+-119.40244000000001,38.1486,0
+-119.40345000000002,38.14825,0
+-119.40373,38.14819,0
+-119.40435000000002,38.14816,0
+-119.40476999999998,38.14803,0
+-119.40507000000002,38.14799,0
+-119.40611000000001,38.148,0
+-119.40667000000002,38.14788,0
+-119.40737000000001,38.1478,0
+-119.40768000000003,38.14772,0
+-119.40836999999999,38.14768,0
+-119.40866,38.14775,0
+-119.40921000000003,38.14801,0
+-119.40976999999998,38.14808,0
+-119.41012,38.148,0
+-119.41055,38.1477,0
+-119.41077999999999,38.14734,0
+-119.41088000000002,38.14705,0
+-119.41109,38.14668,0
+-119.41124000000002,38.14649,0
+-119.41143,38.14632,0
+-119.41192000000001,38.14606,0
+-119.41278,38.1457,0
+-119.41305,38.14552,0
+-119.41336999999999,38.14541,0
+-119.41347999999999,38.14539,0
+-119.41372999999999,38.14541,0
+-119.41419000000002,38.14549,0
+-119.41485999999998,38.14534,0
+-119.41586000000001,38.14537,0
+-119.41639282472886,38.14537433190837,0
+-119.41974034139537,38.14340667172463,0
+-119.41974034139537,38.14016645419477,0
+-119.42094197103404,38.137061110702874,0
+-119.42025532552623,38.12949972180245,0
+-119.4188820345106,38.126258886754556,0
+-119.42025532552623,38.12450337436298,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Less steep of the two couloirs 45 degrees</description><name>Left Couloir</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.4130455476942,38.11872351267207,0
+-119.41441883870982,38.11919619219216,0
+-119.41673626729869,38.122167250542766,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>More steep and committing of the two couloirs, best with recent snow, sees little to no sun</description><name>Right Couloir</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.41180100271129,38.12017530432193,0
+-119.41300263234996,38.121188165123314,0
+-119.41519131490611,38.123078801027845,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>35 degrees, steepest in the bottom 400ft, wind slab potential on the top side of the line below the snow field leading to the summit</description><name>Couloir</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.42677845785045,38.123859807635796,0
+-119.42501892873668,38.124653176418825,0
+-119.42377438375377,38.12487261732607,0
+-119.42186465093516,38.12548029639608,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Couloir</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.38799062233898,38.09798508802151,0
+-119.38781896096202,38.09849167404415,0
+-119.38850560646983,38.09960615093242,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>35ish Degrees</description><name>Ski Dreams</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.3781053740492,38.09378638980154,0
+-119.37808391637708,38.09429300492917,0
+-119.3786632735243,38.095373772131346,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Left Couloir</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.38234746253562,38.094022393322426,0
+-119.38235819137168,38.094790755742366,0
+-119.38201486861777,38.095542223262655,0
+-119.3813711384542,38.09598127936133,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Right Couloir</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.3813711384542,38.09289938756286,0
+-119.38107073104453,38.09347355807691,0
+-119.38089906966758,38.094664103152226,0
+-119.38111364638877,38.09520448600724,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Couloir</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.27738191310829,38.09142177889954,0
+-119.27961351100868,38.102026532673236,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Couloir</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.27386172605924,38.06503787324461,0
+-119.2741621334689,38.067031322715174,0
+-119.27274592710904,38.068450355344496,0
+-119.27141555143766,38.07003828779406,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>45-50 degrees based on snow year, best on warm day sees little sun</description><name>North Couloir</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.31403959612106,37.982050462489234,0
+-119.31403959612106,37.982701610645584,0
+-119.31403959612106,37.98327664577151,0
+-119.31391085008835,37.98347959826948,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Looked like amazing corn skiing</description><name>North face</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.30895970610192,37.948931301802226,0
+-119.30840180662682,37.95008189662159,0
+-119.30818722990563,37.95207847427798,0
+-119.30784390715172,37.953736607695525,0
+-119.30801556852867,37.95451490231086,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>Y Couloir</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.31615516715192,37.96621022798886,0
+-119.3162409978404,37.96688689144399,0
+-119.31641265921735,37.96790187493406,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Careful of Burgshrund becoming uncovered in late spring/summer</description><name>Couloir</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.3191592412486,37.96610872793274,0
+-119.3191592412486,37.96648089411924,0
+-119.31864425711774,37.967225220833036,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Careful of Burgshrund becoming uncovered in late spring/summer</description><name>Couloir</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.31864425711774,37.965939560860726,0
+-119.3180434422984,37.967089889264486,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF0000</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>used to access North Couloirs on Conness and north face of White Mountain. Downside is not able to scout Conness lines by going this way, but quick and easy skin. </description><name>Conness SE approach</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.24862164397189,37.93838219479164,0
+-119.24864805623304,37.93833071821365,0
+-119.24867999999998,37.93836,0
+-119.24876999999998,37.93839,0
+-119.24898000000002,37.93842,0
+-119.24962,37.93843,0
+-119.25002999999998,37.93854,0
+-119.25018,37.93861,0
+-119.25034,37.93872,0
+-119.25034,37.93872,0
+-119.25034,37.93872,0
+-119.25058999999999,37.93867,0
+-119.2510014050423,37.938474092837005,0
+-119.25342816252657,37.93990525565119,0
+-119.25900715727755,37.94403428408959,0
+-119.27012223143527,37.952122048788006,0
+-119.2753149880881,37.954964538617055,0
+-119.27780407805392,37.95669028234985,0
+-119.27994984526583,37.95797610426071,0
+-119.28432721037814,37.95875396643738,0
+-119.2883183373923,37.95888931336925,0
+-119.2906786813254,37.9588216399345,0
+-119.29308194060275,37.95987057116602,0
+-119.29454106230685,37.96058112897245,0
+-119.29552811522433,37.96091948741629,0
+-119.29685849089572,37.96142702215905,0
+-119.29943341155001,37.96115633739942,0
+-119.3016650094504,37.961460857683875,0
+-119.30329579253146,37.961460857683875,0
+-119.30415409941622,37.96190071808768,0
+-119.30492657561251,37.962814265892604,0
+-119.30505532164523,37.963727802332684,0
+-119.30608528990695,37.96437024981856,0
+-119.3088318719382,37.963625894163144,0
+-119.3106343163962,37.96349055596057,0
+-119.31183594603488,37.96450558639979,0
+-119.31436795134493,37.9658589384929,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF0000</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>North Peak Approach</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.25098449135015,37.9390024918435,0
+-119.25034,37.93872,0
+-119.25034,37.93872,0
+-119.25034,37.93872,0
+-119.25072,37.93903,0
+-119.25112000000001,37.93915,0
+-119.25162999999998,37.93947,0
+-119.25209999999998,37.93982,0
+-119.25284999999997,37.94023,0
+-119.25306,37.94038,0
+-119.25349,37.94083,0
+-119.25394,37.94117,0
+-119.25413000000003,37.94135,0
+-119.25503000000003,37.94244,0
+-119.25526000000002,37.94287,0
+-119.25581,37.94343,0
+-119.25632999999999,37.94376,0
+-119.25691999999998,37.9442,0
+-119.25691999999998,37.9442,0
+-119.25698,37.94424,0
+-119.25722000000002,37.94455,0
+-119.25745,37.94496,0
+-119.25752,37.94525,0
+-119.25752,37.94548,0
+-119.25758000000002,37.94573,0
+-119.25783000000001,37.94605,0
+-119.25788999999997,37.94617,0
+-119.25783000000001,37.94686,0
+-119.25790999999998,37.94717,0
+-119.25808,37.94757,0
+-119.25837999999999,37.94793,0
+-119.25848000000002,37.94811,0
+-119.25851999999998,37.94826,0
+-119.25860999999998,37.94844,0
+-119.25898000000001,37.94892,0
+-119.25936000000002,37.94932,0
+-119.26017000000002,37.94985,0
+-119.26048000000003,37.95014,0
+-119.26081786963721,37.95033232579347,0
+-119.26081786963721,37.95033232579347,0
+-119.26112999999998,37.95051,0
+-119.26112999999998,37.95051,0
+-119.26112999999998,37.95051,0
+-119.26127928263293,37.95058094620179,0
+-119.26127928263293,37.95058094620179,0
+-119.26213999999999,37.95099,0
+-119.26240999999999,37.95119,0
+-119.26274999999998,37.95161,0
+-119.26342,37.95227,0
+-119.26413000000002,37.95331,0
+-119.26465999999999,37.95369,0
+-119.26513999999997,37.95412,0
+-119.26567,37.95475,0
+-119.26609986325627,37.95567585932124,0
+-119.26610715310522,37.95569156053434,0
+-119.26670999999999,37.95699,0
+-119.26722000000001,37.95783,0
+-119.26736,37.95811,0
+-119.26758000000001,37.95838,0
+-119.26758000000001,37.95838,0
+-119.26758999999998,37.95849,0
+-119.26773000000003,37.95864,0
+-119.26801999999998,37.95908,0
+-119.26810999999998,37.95926,0
+-119.26828,37.95946,0
+-119.26862,37.95972,0
+-119.26884000000001,37.95985,0
+-119.26932,37.96029,0
+-119.26945,37.96037,0
+-119.26981,37.9605,0
+-119.27007000000003,37.96069,0
+-119.27035999999998,37.96077,0
+-119.27044999999998,37.96083,0
+-119.27125000000001,37.96152,0
+-119.27125000000001,37.96152,0
+-119.27138000000002,37.96161,0
+-119.27145999999999,37.96161,0
+-119.27172999999999,37.96152,0
+-119.27172999999999,37.96152,0
+-119.27199999999999,37.96149,0
+-119.27211,37.96152,0
+-119.27211,37.96152,0
+-119.27217000000002,37.96162,0
+-119.27251999999999,37.96253,0
+-119.27285999999998,37.96321,0
+-119.27298000000002,37.96365,0
+-119.27296000000001,37.96398,0
+-119.27285999999998,37.96425,0
+-119.27276,37.96442,0
+-119.27258,37.96464,0
+-119.27247,37.96474,0
+-119.27219000000002,37.96491,0
+-119.27219000000002,37.96491,0
+-119.27219000000002,37.96491,0
+-119.27211999997382,37.96497000002247,0
+-119.27211999999997,37.96497,0
+-119.27244999999999,37.9652,0
+-119.27260000000001,37.96534,0
+-119.27397000000002,37.96583,0
+-119.27397000000002,37.96583,0
+-119.27397000000002,37.96583,0
+-119.27402999999998,37.96623,0
+-119.27415584716306,37.966724998841386,0
+-119.27412717259745,37.96661221221654,0
+-119.27418,37.96682,0
+-119.27431999999999,37.96759,0
+-119.27436,37.968,0
+-119.27443,37.96819,0
+-119.27438999999998,37.96895,0
+-119.27444000000003,37.96915,0
+-119.27452,37.96929,0
+-119.27454999999998,37.96947,0
+-119.27467000000001,37.96977,0
+-119.27465999999998,37.97002,0
+-119.2747,37.97018,0
+-119.27480000000003,37.97036,0
+-119.27495999999996,37.97045,0
+-119.27503000000002,37.97054,0
+-119.27513999999996,37.97078,0
+-119.27522999999997,37.97085,0
+-119.27534000000003,37.97089,0
+-119.27552000000003,37.97123,0
+-119.27582000000001,37.97154,0
+-119.27589,37.97166,0
+-119.27607999999998,37.97176,0
+-119.27615000000003,37.97187,0
+-119.27647000000002,37.97214,0
+-119.27661999999998,37.97221,0
+-119.27674000000002,37.97231,0
+-119.27706999999998,37.97244,0
+-119.27747999999997,37.97267,0
+-119.27768000000003,37.9727,0
+-119.27780000000001,37.97275,0
+-119.27805000000001,37.973,0
+-119.27836000000002,37.9732,0
+-119.27859000000001,37.97329,0
+-119.27875,37.9733,0
+-119.27897000000002,37.97341,0
+-119.27906000000002,37.97354,0
+-119.27918,37.97363,0
+-119.27969999999999,37.97389,0
+-119.27987999999999,37.97394,0
+-119.28008,37.97406,0
+-119.28071999999997,37.97432,0
+-119.28104000000002,37.97451,0
+-119.28134,37.9746,0
+-119.28186,37.9748,0
+-119.28201999999999,37.9748,0
+-119.28214000000003,37.97482,0
+-119.2824,37.97501,0
+-119.28271999999998,37.97514,0
+-119.28274999999996,37.97519,0
+-119.28283999999996,37.97524,0
+-119.28328999999997,37.97545,0
+-119.28354999999999,37.97562,0
+-119.28377999999998,37.97569,0
+-119.28418999999997,37.97618,0
+-119.28436999999997,37.97635,0
+-119.28448000000003,37.97651,0
+-119.28454999999997,37.97666,0
+-119.28456,37.97678,0
+-119.28481,37.97738,0
+-119.28508,37.97755,0
+-119.28566000000001,37.97782,0
+-119.28577000000001,37.97802,0
+-119.28589,37.97812,0
+-119.28589,37.97812,0
+-119.28604999999999,37.97813,0
+-119.28622999999999,37.97816,0
+-119.28710000000001,37.97846,0
+-119.28777000000002,37.97854,0
+-119.2883286857384,37.97874055385481,0
+-119.2944148197193,37.983394846187146,0
+-119.29801970863531,37.98608907461379,0
+-119.30183917427252,37.988592020250955,0
+-119.30578738594244,37.99079048313897,0
+-119.30896312141607,37.99197424355947,0
+-119.3115809574146,37.99177131455832,0
+-119.31364089393804,37.990553728762634,0
+-119.31548625374029,37.988253789343815,0
+-119.31630164528082,37.98635966744786,0
+-119.31612998390386,37.98493904393577,0
+-119.31458503151129,37.98375516999797,0
+-119.3141558780689,37.983349265965046,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description/><name>South Face</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.3139228651903,37.98166273815584,0
+-119.31113336781482,37.97577674209838,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Huge Open Bowl</description><name>South East Bowl</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.29316549392962,37.940664206251554,0
+-119.28844480606341,37.93900577780311,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF0000</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Last 500ft follows ridgeline as face normally has snow scoured from it</description><name>Dana Approach</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.25799162756857,37.91104528215204,0
+-119.25653250586447,37.91016494984069,0
+-119.25430090796408,37.909555482839124,0
+-119.25429753894002,37.9095132130693,0
+-119.25391000000002,37.90936,0
+-119.25380000000001,37.9093,0
+-119.25356,37.90911,0
+-119.25333,37.90885,0
+-119.25315,37.90878,0
+-119.25261999999998,37.90874,0
+-119.25243999999998,37.90869,0
+-119.25227000000001,37.90862,0
+-119.25194999999997,37.90837,0
+-119.25171999999998,37.90825,0
+-119.25139000000001,37.90823,0
+-119.25119999999998,37.90826,0
+-119.2509,37.90834,0
+-119.25045999999998,37.9084,0
+-119.25013000000001,37.90848,0
+-119.24979000000002,37.90863,0
+-119.24968000000001,37.90864,0
+-119.24934000000002,37.90861,0
+-119.24918000000002,37.90865,0
+-119.24891000000002,37.90879,0
+-119.24880000000002,37.90881,0
+-119.24865999999997,37.90878,0
+-119.24847999999997,37.9087,0
+-119.24804,37.90833,0
+-119.24788999999998,37.90806,0
+-119.24777,37.90773,0
+-119.24751000000003,37.90746,0
+-119.24734000000001,37.90707,0
+-119.24714,37.90678,0
+-119.24698000000001,37.90649,0
+-119.24676,37.90624,0
+-119.24669,37.90625,0
+-119.24657000000002,37.90634,0
+-119.24648000000002,37.90635,0
+-119.24617,37.9062,0
+-119.24604999999997,37.90625,0
+-119.24598000000003,37.90631,0
+-119.24581999999998,37.90626,0
+-119.24561,37.9064,0
+-119.24561,37.9064,0
+-119.24549999999999,37.90643,0
+-119.24529000000001,37.90637,0
+-119.24477000000002,37.90637,0
+-119.24457999999998,37.90632,0
+-119.24448000000001,37.90642,0
+-119.24430999999998,37.90641,0
+-119.24419,37.90639,0
+-119.24394000000001,37.90621,0
+-119.24385000000001,37.90617,0
+-119.24358999999998,37.90613,0
+-119.24349000000001,37.90615,0
+-119.24342999999999,37.9062,0
+-119.24329999999998,37.90638,0
+-119.24291,37.90652,0
+-119.24275,37.90666,0
+-119.24265000000003,37.90671,0
+-119.24256000000003,37.90673,0
+-119.24198000000001,37.90662,0
+-119.24183,37.90662,0
+-119.24174,37.90658,0
+-119.24164000000002,37.90646,0
+-119.24148000000002,37.90642,0
+-119.24137000000002,37.9063,0
+-119.24119000000002,37.90622,0
+-119.24106,37.90621,0
+-119.24086,37.90624,0
+-119.24068,37.90615,0
+-119.24043,37.90615,0
+-119.24026000000003,37.9061,0
+-119.24000000000001,37.90607,0
+-119.23968000000002,37.90592,0
+-119.23953,37.90589,0
+-119.23932000000002,37.90602,0
+-119.23891000000003,37.9061,0
+-119.23867000000001,37.9061,0
+-119.23858999999999,37.90606,0
+-119.23816999999997,37.90625,0
+-119.23777000000001,37.90625,0
+-119.23759000000001,37.90617,0
+-119.23744999999997,37.90618,0
+-119.23725000000002,37.90615,0
+-119.23719,37.906,0
+-119.23707000000002,37.90597,0
+-119.23694,37.90583,0
+-119.23665,37.90566,0
+-119.23642999999998,37.90571,0
+-119.23597000000001,37.90565,0
+-119.23577999999998,37.90554,0
+-119.23565000000002,37.90555,0
+-119.23550999999998,37.9054,0
+-119.23494,37.9051,0
+-119.23482000000001,37.90509,0
+-119.23462,37.90493,0
+-119.23433999999997,37.90493,0
+-119.23406,37.90502,0
+-119.23327999999998,37.90476,0
+-119.23252000000002,37.90456,0
+-119.23212000000001,37.9045,0
+-119.23192,37.9045,0
+-119.23127999999997,37.90432,0
+-119.23113999999998,37.90414,0
+-119.23073,37.90385,0
+-119.23037999999997,37.90355,0
+-119.23009000000002,37.90347,0
+-119.22973000000002,37.90345,0
+-119.22959000000003,37.90328,0
+-119.22942,37.90319,0
+-119.22920999999997,37.90314,0
+-119.22886,37.90299,0
+-119.22859,37.90296,0
+-119.22802999999999,37.90285,0
+-119.22764000000001,37.90266,0
+-119.22746999999998,37.90254,0
+-119.22726390083193,37.902337789495476,0
+-119.22374518286642,37.901902856414395,0
+-119.2223718918508,37.901293320977544,0
+-119.22099860083517,37.89946468437718,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FFFF0000</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>When 120 closed at lower gate, this is the best approach to get onto the plateau</description><name>Dana Plateau approach</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.17991364153721,37.933862528218775,0
+-119.18042862566807,37.930477627412,0
+-119.18240273150303,37.928582014883744,0
+-119.18566429766514,37.927634190291684,0
+-119.18823921831944,37.92661865038424,0
+-119.19072830828526,37.92634783737337,0
+-119.19330322893956,37.9258062083594,0
+-119.19613564165928,37.92316570978365,0
+-119.19871056231358,37.91957718794754,0
+-119.20094216021397,37.917410448478286,0
+-119.20437538775303,37.91551449908239,0
+-119.20772278460362,37.91476964844934,0
+-119.21038353594639,37.91382164582639,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Usually has a big cornice at the top 45 degrees</description><name>Solstice Couloir</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.22334396990635,37.90235364540004,0
+-119.22270023974278,37.90370814222185,0
+-119.22089779528477,37.90472399847762,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Sees little sun so can be firm if solid refreeze during spring, 45 degrees</description><name>Dana Couloir</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.21720707568028,37.89856092167151,0
+-119.21720707568028,37.89940752873386,0
+-119.21626293810704,37.90106685032776,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>40 degrees, wide line steepest just for the top handful of turns.  </description><name>Kidney Chute</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.20877017457019,37.90432304130116,0
+-119.20636691529285,37.90249447998089,0
+-119.20370616395007,37.90100450753387,0
+-119.20113124329578,37.89839698316704,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Beautiful line, probably 45 degrees with a few tight chokes viewing from the Kidney</description><name>North Couloir on Gibbs</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.19765510041248,37.88728857179249,0
+-119.19954337555896,37.88976101567533,0
+-119.19808425385486,37.891522157944564,0
+-119.19877089936267,37.893452592417745,0
+-119.19817008454334,37.89558617162684,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>40 degrees at entrance then mellows to 35 or less on apron. Best route to ascent the plateau, wind buffed at the top entrance</description><name>Cocaine Chute</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.21016713049926,37.91388509009127,0
+-119.20810719397582,37.91439294972062,0
+-119.20480271246947,37.91571336834798,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>45 degrees, best on warmer day or with new snow as it can be rocky in parts with a lower snow year. Can Ascend route to asses conditions</description><name>Ripper Chute</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.21167700609772,37.91740617806939,0
+-119.20905917009918,37.917947868952226,0
+-119.20738547167389,37.91886196327079,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>50 degrees and can have rock choke in middle if low snow year, committing line</description><name>Third Pillar Chute</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.2139086039981,37.92271253643161,0
+-119.21317904314606,37.92350808614127,0
+-119.21214907488434,37.92369427738366,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>High commitment level as you go over large no fall zone to enter line. 45 degrees</description><name>Gutter Chute</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.20959561190216,37.920985994689914,0
+-119.21073286852447,37.92091828634467,0
+-119.21163409075348,37.92100292176648,0
+-119.21214907488434,37.92095214052508,0
+-119.21270697435943,37.92057974368346,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>Mandatory Rap to get into line then 45-50 degrees somewhat tight</description><name>Liberty Chute</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.21313612780182,37.92115526528026,0
+-119.2126640590152,37.92154458615959,0
+-119.21193449816315,37.92156151310759,0
+-119.21077578386871,37.92234014850407,0
+</coordinates></LineString></Placemark><Placemark><Style><LineStyle><color>FF0000FF</color><fill>1</fill><outline>1</outline><width>2.0</width></LineStyle></Style><description>35-40 degrees big bowl good spring skiing</description><name>Elery Bowl</name><LineString><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>-119.2241710908578,37.925175887619034,0
+-119.22893469406824,37.92954269538854,0
+-119.2309087999032,37.93458620483525,0
+</coordinates></LineString></Placemark></Folder></Document></kml>
